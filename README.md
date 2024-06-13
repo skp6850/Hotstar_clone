@@ -5,7 +5,7 @@ A website using
 *Css
 *JavaScript
 
-This project intends to recreate the magic of Disney+ Hotstar by offering a platform for streaming a variety of movies, TV shows, sports, and other content.
+This project intends to clone the magic of  Hotstar by offering a platform for streaming a variety of movies, TV shows, sports, and other content.
 
 It has features like :
 * Search and Recommendation
